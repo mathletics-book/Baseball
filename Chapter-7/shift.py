@@ -18,4 +18,6 @@ def obj(x):
 	return -ffielded
 
 ## since our objective function is not smooth we are using differential_evolution
-res = optimize.differential_evolution(obj, bounds = [(0,8),(0,180),(0,180),(0,180)])
+res = differential_evolution(obj, bounds = [(0,8),(0,180),(0,180),(0,180)])
+
+print("The optimal positions are: \n \t",round(res.x[0],2),"\n \t",round(res.x[1],2),"\n \t",round(res.x[2],2),"\n \t",round(res.x[3],2),"\n and the fraction fielded is expected to be: ",round(abs(obj(res.x)),2))
