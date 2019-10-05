@@ -6,7 +6,7 @@
 
 import pandas as pd
 import numpy as np
-from scipy import optimize, optimize.LinearConstraint
+from scipy.optimize import differential_evolution
 
 df = pd.read_csv("shift.csv")
 
