@@ -1,0 +1,147 @@
+﻿Name,Team,PA,wOBA,WPA,WPAPA
+Mike Trout,Angels,681,0.418,6.64,0.009750367
+Kris Bryant,Cubs,699,0.396,2.26,0.00323319
+Mookie Betts,Red Sox,730,0.379,3.07,0.004205479
+Josh Donaldson,Blue Jays,700,0.403,4.29,0.006128571
+Corey Seager,Dodgers,687,0.372,2.87,0.004177584
+Jose Altuve,Astros,717,0.391,3,0.0041841
+Manny Machado,Orioles,696,0.366,1.72,0.002471264
+Francisco Lindor,Indians,684,0.34,1.17,0.001710526
+Freddie Freeman,Braves,693,0.402,3.47,0.005007215
+Adrian Beltre,Rangers,640,0.371,3.97,0.006203125
+Adam Eaton,White Sox,706,0.344,0.99,0.001402266
+Robinson Cano,Mariners,715,0.37,3.18,0.004447552
+Brian Dozier,Twins,691,0.37,0.75,0.001085384
+Ian Kinsler,Tigers,679,0.356,1.35,0.001988218
+Brandon Crawford,Giants,623,0.327,0.82,0.001316212
+Justin Turner,Dodgers,622,0.353,2.87,0.004614148
+Daniel Murphy,Nationals,582,0.408,3.81,0.006546392
+Kyle Seager,Mariners,676,0.363,1.72,0.002544379
+Dustin Pedroia,Red Sox,698,0.358,2.95,0.004226361
+Nolan Arenado,Rockies,696,0.386,3.02,0.00433908
+Anthony Rizzo,Cubs,676,0.391,3.89,0.005754438
+Jean Segura,Diamondbacks,694,0.371,1.83,0.002636888
+Joey Votto,Reds,677,0.413,4.04,0.005967504
+Carlos Correa,Astros,660,0.349,3.37,0.005106061
+Miguel Cabrera,Tigers,679,0.399,3.12,0.004594993
+Jackie Bradley Jr.,Red Sox,636,0.354,-0.52,-0.00081761
+Jason Kipnis,Indians,688,0.347,2.03,0.002950581
+Paul Goldschmidt,Diamondbacks,705,0.382,3.98,0.00564539
+Jose Ramirez,Indians,618,0.355,3.45,0.005582524
+Xander Bogaerts,Red Sox,719,0.348,1.64,0.002280946
+Dexter Fowler,Cubs,551,0.367,1.78,0.00323049
+Anthony Rendon,Nationals,647,0.342,1.7,0.002627512
+Jonathan Lucroy,- - -,544,0.362,2.79,0.005128676
+Evan Longoria,Rays,685,0.35,1.26,0.001839416
+George Springer,Astros,744,0.353,1.7,0.002284946
+David Ortiz,Red Sox,626,0.419,4.24,0.006773163
+Cesar Hernandez,Phillies,622,0.335,-0.66,-0.001061093
+Brandon Belt,Giants,655,0.374,1.68,0.002564885
+Christian Yelich,Marlins,659,0.367,3.54,0.005371775
+Nelson Cruz,Mariners,667,0.383,1.94,0.002908546
+DJ LeMahieu,Rockies,635,0.391,1.25,0.001968504
+Buster Posey,Giants,614,0.341,1.22,0.001986971
+Ben Zobrist,Cubs,631,0.36,1.39,0.002202853
+Starling Marte,Pirates,529,0.351,1.8,0.003402647
+Kole Calhoun,Angels,672,0.34,1.66,0.002470238
+Addison Russell,Cubs,598,0.316,1.67,0.002792642
+Charlie Blackmon,Rockies,641,0.394,2.19,0.003416537
+Edwin Encarnacion,Blue Jays,702,0.373,1.37,0.001951567
+Odubel Herrera,Phillies,656,0.338,1.06,0.001615854
+Wil Myers,Padres,676,0.341,1.45,0.00214497
+Carlos Santana,Indians,688,0.37,2.69,0.003909884
+Ender Inciarte,Braves,578,0.319,-1.54,-0.00266436
+Bryce Harper,Nationals,627,0.343,3.27,0.005215311
+J.T. Realmuto,Marlins,545,0.333,-0.82,-0.001504587
+Wilson Ramos,Nationals,523,0.361,2.58,0.004933078
+Ian Desmond,Rangers,677,0.336,2.63,0.003884786
+Martin Prado,Marlins,658,0.335,1.54,0.002340426
+Ryan Braun,Brewers,564,0.378,0.72,0.001276596
+Kevin Pillar,Blue Jays,584,0.295,-0.41,-0.000702055
+Matt Carpenter,Cardinals,566,0.375,2.88,0.005088339
+Yoenis Cespedes,Mets,543,0.369,3.21,0.005911602
+Jonathan Villar,Brewers,679,0.356,1.98,0.002916053
+Asdrubal Cabrera,Mets,568,0.345,0.28,0.000492958
+Troy Tulowitzki,Blue Jays,544,0.327,-0.33,-0.000606618
+Adam Duvall,Reds,608,0.333,1.53,0.002516447
+Logan Forsythe,Rays,567,0.336,1.51,0.002663139
+Stephen Piscotty,Cardinals,649,0.345,1.91,0.002942989
+Chris Davis,Orioles,665,0.34,1.53,0.002300752
+Eduardo Nunez,- - -,595,0.324,-0.63,-0.001058824
+Didi Gregorius,Yankees,597,0.319,-1.05,-0.001758794
+Curtis Granderson,Mets,633,0.339,0.73,0.001153239
+Chase Headley,Yankees,529,0.311,-0.25,-0.00047259
+Hanley Ramirez,Red Sox,620,0.367,2.73,0.004403226
+Khris Davis,Athletics,610,0.349,1.33,0.002180328
+Gregory Polanco,Pirates,587,0.331,0.34,0.000579216
+Jake Lamb,Diamondbacks,594,0.352,2.73,0.00459596
+Zack Cozart,Reds,508,0.312,-1.68,-0.003307087
+Marcus Semien,Athletics,621,0.315,-1.07,-0.001723027
+Brett Gardner,Yankees,634,0.317,0.94,0.00148265
+Marcell Ozuna,Marlins,608,0.33,0.54,0.000888158
+Yadier Molina,Cardinals,581,0.342,1.13,0.001944923
+Todd Frazier,White Sox,666,0.326,0.25,0.000375375
+Freddy Galvis,Phillies,624,0.284,-0.05,-8.01282E-05
+Carlos Beltran,- - -,593,0.358,1.73,0.002917369
+Leonys Martin,Mariners,576,0.298,1.22,0.002118056
+Salvador Perez,Royals,546,0.308,0.19,0.000347985
+Mark Trumbo,Orioles,667,0.358,1.23,0.001844078
+Joe Panik,Giants,526,0.3,1.15,0.002186312
+Elvis Andrus,Rangers,568,0.344,2.87,0.005052817
+Angel Pagan,Giants,543,0.324,1.42,0.002615101
+Jose Iglesias,Tigers,513,0.283,-0.79,-0.001539961
+Jacoby Ellsbury,Yankees,626,0.308,0.52,0.000830671
+Chase Utley,Dodgers,565,0.312,0.78,0.001380531
+Jonathan Schoop,Orioles,647,0.32,0.21,0.000324575
+Brad Miller,Rays,601,0.333,-0.08,-0.000133111
+Rougned Odor,Rangers,632,0.336,0.68,0.001075949
+Russell Martin,Blue Jays,535,0.322,0.27,0.000504673
+Carlos Gonzalez,Rockies,632,0.361,0.4,0.000632911
+J.D. Martinez,Tigers,517,0.384,1.34,0.002591876
+Stephen Vogt,Athletics,532,0.305,0.43,0.000808271
+Danny Espinosa,Nationals,601,0.294,-1.2,-0.001996672
+Eugenio Suarez,Reds,627,0.316,0.57,0.000909091
+Jose Abreu,White Sox,695,0.349,0.2,0.00028777
+Jason Heyward,Cubs,592,0.282,-2.65,-0.004476351
+Yunel Escobar,Angels,567,0.327,-0.54,-0.000952381
+Melky Cabrera,White Sox,646,0.342,2.46,0.00380805
+Corey Dickerson,Rays,548,0.319,-1.96,-0.003576642
+Travis Shaw,Red Sox,530,0.31,-0.81,-0.001528302
+Josh Harrison,Pirates,522,0.301,0.07,0.0001341
+Denard Span,Giants,637,0.312,-0.8,-0.001255887
+Maikel Franco,Phillies,630,0.311,1.46,0.00231746
+Michael Saunders,Blue Jays,558,0.348,-1.78,-0.003189964
+Justin Upton,Tigers,626,0.329,1.98,0.003162939
+Adam Jones,Orioles,672,0.319,-1.63,-0.002425595
+Jose Bautista,Blue Jays,517,0.355,1.11,0.002147002
+Adrian Gonzalez,Dodgers,633,0.334,1.84,0.002906793
+Jordy Mercer,Pirates,584,0.304,0.38,0.000650685
+Alex Gordon,Royals,506,0.303,-1.92,-0.003794466
+Nomar Mazara,Rangers,568,0.318,-0.49,-0.000862676
+Melvin Upton Jr.,- - -,539,0.297,0.54,0.001001855
+Danny Valencia,Athletics,517,0.342,0.39,0.000754352
+Nick Markakis,Braves,684,0.321,1.76,0.002573099
+Starlin Castro,Yankees,610,0.313,-0.03,-4.91803E-05
+Jayson Werth,Nationals,606,0.327,0.97,0.00160066
+Mike Napoli,Indians,645,0.343,0.67,0.00103876
+Joe Mauer,Twins,576,0.327,-0.62,-0.001076389
+Howie Kendrick,Dodgers,543,0.303,0.19,0.000349908
+Brandon Phillips,Reds,584,0.315,-1.46,-0.0025
+Chris Carter,Brewers,644,0.346,-0.21,-0.000326087
+Albert Pujols,Angels,650,0.331,2.39,0.003676923
+Victor Martinez,Tigers,610,0.351,-0.56,-0.000918033
+Jay Bruce,- - -,589,0.34,1.43,0.002427844
+Adonis Garcia,Braves,563,0.308,1.2,0.002131439
+Andrew McCutchen,Pirates,675,0.329,0.37,0.000548148
+Kendrys Morales,Royals,618,0.339,-0.58,-0.000938511
+Matt Kemp,- - -,672,0.333,-0.06,-8.92857E-05
+Adeiny Hechavarria,Marlins,547,0.256,-2.33,-0.004259598
+Alcides Escobar,Royals,682,0.278,-2.4,-0.003519062
+Mitch Moreland,Rangers,503,0.307,-0.15,-0.000298211
+Marwin Gonzalez,Astros,518,0.298,-0.58,-0.001119691
+Cheslor Cuthbert,Royals,510,0.316,-1.07,-0.002098039
+Scooter Gennett,Brewers,542,0.315,-0.92,-0.001697417
+Yasmany Tomas,Diamondbacks,563,0.345,-0.52,-0.000923623
+Eric Hosmer,Royals,667,0.326,0.33,0.000494753
+Yonder Alonso,Athletics,532,0.299,0.33,0.000620301
+Alexei Ramirez,- - -,506,0.264,-1.44,-0.00284585
