@@ -36,13 +36,16 @@ plt.savefig("clutch_lollipop.png")
 
 
 # what is Tony Perez wOBA equivalent considering his clutch hitting? 
-# Assumption: The above model holds for Perez' era
+# Given the different era for Tony Perez, we use the corresponding coefficients for the model between wOBA and WPA/PA
 # For the actual model for that era look at 'Tony Perez New wOBA' worksheet at CLUTCH.XLSX
 
+perez_model = [-0.0276, 0.086051]
+perez_res_se = 0.002289844
+
 perez = pd.read_csv("perez.csv")
-perez['predicted'] = model.predict(perez)
+perez['predicted'] = perez_model[0] + (perez_model[1]*perez['wOBA'])
 perez['zscore'] = (perez['WPAPA']-perez['predicted'])/res_se
 
-f = lambda x: np.mean((perez['WPAPA']-model.predict(perez['wOBA']+x))/res_se)
+f = lambda x: np.mean((perez['WPAPA']-(perez_model[0] + (perez_model[1]*(perez['wOBA']+x))))/perez_res_se)
 
 print('wOBA of ', fsolve(f,0)[0]+np.mean(perez['wOBA']),' makes Perez z-score 0')
