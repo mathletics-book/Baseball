@@ -8,10 +8,12 @@
 
 import numpy as np
 
-
 def find_runs(seq):
 	return 1+sum([1 if seq[i]!=seq[i+1] else 0 for i in range(len(seq)-1)])
 
+# returns the z-score of the WWRT test. 
+# H_0: elements in the sequence are mutually independent
+# H_1: elements in the sequence are NOT mutually independent
 def WWRT(seq):
 	s = sum(seq)
 	f = len(seq)-s
